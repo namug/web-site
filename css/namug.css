@@ -14,3 +14,8 @@ body {
 .jumbotron {
 	height: 100%;
 }
+
+.paddedLR {
+	margin-left: 10px;
+	margin-right: 10px;
+}
