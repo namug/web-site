@@ -4,14 +4,14 @@ title: North America Modelica Users' Group 2014
 ---
 
 <div class="paddedLR pull-right">
-  <img src="/images/graphic.png"/>
+  <img class="img-responsive graphic" src="/images/graphic.png"/>
 </div>
 
 # 2014 North America Modelica Users' Group Meeting
 
-### Where: Georgia Institute of Technology, Atlanta, Georgia
+#### <b>Where</b>: Georgia Institute of Technology, Atlanta, Georgia
 
-### When: October 13th-14th, 2014
+#### <b>When</b>: October 13th-14th, 2014
 
 ## Agenda
 
@@ -75,13 +75,13 @@ title: North America Modelica Users' Group 2014
 	</tr>
     <tr>
 	  <td>9:00am-9:30am</td>
-	  <td><b>Keynote</b><br>Prof. Ed Lee, UC Berkeley</td>
+	  <td><b>Keynote</b><br>Prof. Edward Lee, UC Berkeley</td>
 	</tr>
     <tr>
 	  <td>9:30am-10:05am</td>
 	  <td>
 	  John House (Johnson Controls)<br>
-	  <i>""</i>
+	  <i>"Why I Use Modelica – An Industry Perspective"</i>
 	  </td>
 	</tr>
     <tr>
