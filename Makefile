@@ -1,5 +1,5 @@
 dev:
-	jekyll serve
+	jekyll serve -w
 
 site:
 	jekyll build
