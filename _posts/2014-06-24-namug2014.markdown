@@ -29,19 +29,31 @@ title: North America Modelica Users' Group 2014
       <td>9:00am-noon</td>
       <td>
 	    <b>Tool-specific hands-on training</b><br>
-	    An opportunity for you to gain first-hand experience of a range
-	    of products with experts from all the major tool suppliers.
-	  </td>
-    </tr>
-    <tr>
-      <td>12:00pm-1:00pm</td>
-      <td>
-	    Lunch
+
+	    An opportunity for you to gain first-hand experience of a
+	    range of products with experts from all the major tool
+	    suppliers.  Participating vendors will host independent
+	    sessions during this time to discuss their tools.
+
 	  </td>
     </tr>
 
     <tr>
-      <td>1:00pm-3:00pm</td>
+      <td>10:30am-10:45am</td>
+      <td>
+	    <b>Coffee Break</b>
+	  </td>
+    </tr>
+
+    <tr>
+      <td>12:00pm-1:00pm</td>
+      <td>
+	  	<b>Lunch</b>
+	  </td>
+    </tr>
+
+    <tr>
+      <td>1:00pm-2:50pm</td>
       <td>
 	    Recent advances in:<br>
 		<ul>
@@ -53,8 +65,23 @@ title: North America Modelica Users' Group 2014
     </tr>
 
 	<tr>
-	  <td>3:00pm-6:00pm</td>
-	  <td>Modelica Tutorials</td>
+	  <td>2:50pm-3:10pm</td>
+	  <td><b>Snack and Coffee Break</b></td>
+	</tr>
+
+	<tr>
+	  <td>3:10pm-6:00pm</td>
+	  <td>Modelica and FMI Tutorials (held in parallel)</td>
+	</tr>
+
+	<tr>
+	  <td>7:00pm-</td>
+	  <td>
+
+        <b>Dinner</b>:<br>Reservations will be made on behalf of all attendees
+        interested in getting together for dinner Monday evening.
+
+	  </td>
 	</tr>
   </tbody>
 </table>
@@ -91,22 +118,30 @@ title: North America Modelica Users' Group 2014
 	  <i>"On the Development of Modelica Libraries for Thermofluid Systems"</i>
 	  </td>
 	</tr>
+
     <tr>
-	  <td>10:40am-11:15am</td>
+	  <td>10:40am-10:55am</td>
+	  <td>
+	  <b>Coffee Break</b>
+	  </td>
+	</tr>
+
+    <tr>
+	  <td>10:55am-11:30am</td>
 	  <td>
 	  Kevin Davies (University of Hawaii)<br>
 	  <i>"Experiences from Fuel Cell Modeling in Modelica"</i>
 	  </td>
 	</tr>
     <tr>
-	  <td>11:15am-11:50pm</td>
+	  <td>11:30am-12:05pm</td>
 	  <td>
 	  Michael Balchanos (Georgia Tech)<br>
 	  <i>"Dynamic Systems Modeling for the GT Smart Energy Campus, using Modelica Libraries"</i>
 	  </td>
 	</tr>
     <tr>
-	  <td>11:50pm-13:00pm</td>
+	  <td>12:05pm-13:00pm</td>
 	  <td><b>Lunch</b></td>
 	</tr>
     <tr>
