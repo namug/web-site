@@ -53,7 +53,13 @@ title: North America Modelica Users' Group 2014
     </tr>
 
     <tr>
-      <td>1:00pm-2:50pm</td>
+      <td>1:00pm-1:30pm</td>
+	  <td><b>Keynote</b><br>
+		Dr. Clas A. Jacobson, United Technologies
+		<!-- (<a data-toggle="modal" data-target="#utc_abstract">abstract</a>)</td> -->
+	</tr>
+    <tr>
+      <td>1:30pm-3:20pm</td>
       <td>
 	    Recent advances in:<br>
 		<ul>
@@ -65,12 +71,12 @@ title: North America Modelica Users' Group 2014
     </tr>
 
 	<tr>
-	  <td>2:50pm-3:10pm</td>
+	  <td>3:20pm-3:40pm</td>
 	  <td><b>Snack and Coffee Break</b></td>
 	</tr>
 
 	<tr>
-	  <td>3:10pm-6:00pm</td>
+	  <td>3:40pm-6:15pm</td>
 	  <td>Modelica and FMI Tutorials (held in parallel)</td>
 	</tr>
 
@@ -196,3 +202,59 @@ title: North America Modelica Users' Group 2014
 
 <br>
 <br>
+
+<!--
+<div class="modal fade" id="utc_abstract">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">
+		  <span aria-hidden="true">&times;</span>
+		  <span class="sr-only">Close</span>
+		</button>
+		<div class="modal-title">
+		  <h3>Product & Platform Architecture:</h3>
+		  <h4>Product Development Processes and Model Based Development</h4>
+		  <h5>Clas A. Jacobson</h5>
+		  <h5>Young Park</h5>
+		  <h5>John F. Cassidy Jr.</h5>
+		</div>
+      </div>
+<div class="modal-body">
+<p>
+Product development increasingly concerns the selection of product
+platforms which cover a range of offerings for different
+customers. The consideration of architecture is a critical element in
+product development and in particular the selection of architecture
+can offer to the customer significant benefits obtained through
+integration of components and subsystems.
+</p>
+<p>
+The definition of underlying and reusable architectures –
+here considering architectures broadly as connections of
+components and considering views of functional, physical,
+control and network architectural elements – is a critical
+aspect of product development. This talk considers the state
+of technology to identify, evaluate and optimize
+architectures and the opportunities and challenges for the
+Modelica community in these architecture studies.
+</p>
+<p>
+The talk will review some major architectural advances for
+product lines in the history of UTC. The development
+processes that can be used in the ``front end'' of defining
+architectures including work at JPL (“Team X”) and some work
+at UTC (“ITAPS'”) will be reviewed. The overall state of
+needs and matching technology including requirements capture
+and formalization, use of design principles as Platform
+Based Design and the state of tool chain development will be
+reviewed. Specific uses for Modelica that can be used in
+these architectural studies that enable speed and certain
+analyses including robust design and optimization will be
+covered.
+</p>
+</div>
+</div>
+</div>
+</div>
+-->
