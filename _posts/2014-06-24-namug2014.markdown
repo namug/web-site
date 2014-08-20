@@ -13,6 +13,8 @@ title: North America Modelica Users' Group 2014
 
 #### <b>When</b>: October 13th-14th, 2014
 
+<button class="btn btn-primary btn-large" href="http://www.eventbrite.com/e/north-america-modelica-users-group-conference-2014-tickets-12443231039">Register Now - Early Bird Registration Ends September 2nd</button>
+
 ## Agenda
 
 ### October 13th, 2014
@@ -55,7 +57,8 @@ title: North America Modelica Users' Group 2014
     <tr>
       <td>1:00pm-1:30pm</td>
 	  <td><b>Keynote</b><br>
-		Dr. Clas A. Jacobson, United Technologies
+		Dr. Clas A. Jacobson, United Technologies<br>
+		<i>"Product & Platform Architecture: Product Development Processes and Model Based Development"</i>
 		<!-- (<a data-toggle="modal" data-target="#utc_abstract">abstract</a>)</td> -->
 	</tr>
     <tr>
@@ -108,7 +111,10 @@ title: North America Modelica Users' Group 2014
 	</tr>
     <tr>
 	  <td>9:00am-9:30am</td>
-	  <td><b>Keynote</b><br>Prof. Edward Lee, UC Berkeley</td>
+	  <td>
+		<b>Keynote</b><br>
+		Prof. Edward Lee, UC Berkeley<br>
+		<i>"Mixing Discrete and Continuous Models"</i></td>
 	</tr>
     <tr>
 	  <td>9:30am-10:05am</td>
@@ -147,54 +153,54 @@ title: North America Modelica Users' Group 2014
 	  </td>
 	</tr>
     <tr>
-	  <td>12:05pm-13:00pm</td>
+	  <td>12:05pm-1:00pm</td>
 	  <td><b>Lunch</b></td>
 	</tr>
     <tr>
-	  <td>13:00pm-13:35pm</td>
+	  <td>1:00pm-1:35pm</td>
 	  <td>
 	  Rudy Haraga (PSA)<br>
 	  <i>"Training Simulations Utilizing Modelica"</i>
 	  </td>
 	</tr>
     <tr>
-	  <td>13:35pm-14:10pm</td>
+	  <td>1:35pm-2:10pm</td>
 	  <td>
 	  Adrijan Ribaric (Sentient Science)<br>
 	  <i>"System Analysis for Bearing or Gear Life Prediction"</i>
 	  </td>
 	</tr>
     <tr>
-	  <td>14:10pm-14:45pm</td>
+	  <td>2:10pm-2:45pm</td>
 	  <td>
 	  David Blum (MIT)<br>
 	  <i>"The Use of Modelica for the Evaluation of Ancillary Service Demand Response Provision by Variable Air Volume HVAC Systems"</i>
 	  </td>
 	</tr>
     <tr>
-	  <td>14:45pm-15:00pm</td>
+	  <td>2:45pm-3:00pm</td>
 	  <td><b>Coffee Break</b></td>
 	</tr>
     <tr>
-	  <td>15:00pm-15:35pm</td>
+	  <td>3:00pm-3:35pm</td>
 	  <td>
 	  Wangda Zuo (University of Miami)<br>
 	  <i>"Modelica for the Design of Energy Efficient Hotel"</i>
 	  </td>
 	</tr>
     <tr>
-	  <td>15:35pm-16:10pm</td>
+	  <td>3:35pm-4:10pm</td>
 	  <td>
 	  Zheng O'Neill (University of Alabama)<br>
 	  <i>"A Modelica-based Dynamic Fault Simulator for Air Handler Units"</i>
 	  </td>
 	</tr>
     <tr>
-	  <td>16:10pm-17:00pm</td>
+	  <td>4:10pm-5:00pm</td>
 	  <td>Round Table Discussion</td>
 	</tr>
     <tr>
-	  <td>17:00pm-17:15pm</td>
+	  <td>5:00pm-5:15pm</td>
 	  <td>Wrap-up and Closing</td>
 	</tr>
   </tbody>
