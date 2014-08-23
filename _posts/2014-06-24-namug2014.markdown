@@ -58,6 +58,8 @@ title: North America Modelica Users' Group 2014
       <td>1:00pm-1:30pm</td>
 	  <td><b>Keynote</b><br>
 		Dr. Clas A. Jacobson, United Technologies<br>
+	Young Park, United Technologies<br>
+	John F. Cassidy, Jr., United Technologies<br>
 		<i>"Product & Platform Architecture: Product Development Processes and Model Based Development"</i>
 		<!-- (<a data-toggle="modal" data-target="#utc_abstract">abstract</a>)</td> -->
 	</tr>
