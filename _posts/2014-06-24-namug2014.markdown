@@ -5,21 +5,38 @@ title: North America Modelica Users' Group 2014
 
 <div class="paddedLR pull-right">
   <img class="img-responsive graphic" src="/images/graphic.png"/>
+  <h2 style="margin-left: 30px">Platinum Sponsor</h2>
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Maplesoft.png"/>
+  <h2 style="margin-left: 30px">Gold Sponsors</h2>
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Modelon.png"/>
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Wolfram.png"/>
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Siemens.png"/>
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/DS.png"/>
 </div>
 
-# 2014 North America Modelica Users' Group Meeting
 
-#### <b>Where</b>: Georgia Institute of Technology, Atlanta, Georgia
+<h1>2014 North America Modelica Users' Group Meeting</h1>
 
-#### <b>When</b>: October 13th-14th, 2014
+<h4><b>Where</b>: Georgia Institute of Technology, Atlanta, Georgia</h4>
+<h4><b>When</b>: October 13th-14th, 2014</h4>
 
 <a class="btn btn-primary btn-large" href="http://www.eventbrite.com/e/north-america-modelica-users-group-conference-2014-tickets-12443231039">Register Now</a>
 
-## Agenda
 
-### October 13th, 2014
+<!---
+<div style="width: 30%; float: right">
+  <h3>Sponsors</h3>
 
-<table class="table table-condensed table-bordered table-striped">
+</div>
+--->
+
+<div style="width: 60%">
+
+<h2>Agenda</h2>
+
+<h3>October 13th, 2014</h3>
+
+<table style="display: block" class="table table-condensed table-bordered table-striped">
   <thead>
     <tr>
       <th>Time</th>
@@ -97,9 +114,9 @@ title: North America Modelica Users' Group 2014
   </tbody>
 </table>
 
-### October 14th, 2014
+<h3>October 14th, 2014</h3>
 
-<table class="table table-condensed table-bordered table-striped">
+<table style="display: block" class="table table-condensed table-bordered table-striped">
   <thead>
     <tr>
       <th>Time</th>
@@ -207,6 +224,7 @@ title: North America Modelica Users' Group 2014
 	</tr>
   </tbody>
 </table>
+</div>
 
 <br>
 <br>
