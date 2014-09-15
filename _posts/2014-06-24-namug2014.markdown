@@ -13,7 +13,7 @@ title: North America Modelica Users' Group 2014
 
 #### <b>When</b>: October 13th-14th, 2014
 
-<a class="btn btn-primary btn-large" href="http://www.eventbrite.com/e/north-america-modelica-users-group-conference-2014-tickets-12443231039">Register Now - Early Bird Registration Ends September 2nd</a>
+<a class="btn btn-primary btn-large" href="http://www.eventbrite.com/e/north-america-modelica-users-group-conference-2014-tickets-12443231039">Register Now</a>
 
 ## Agenda
 
