@@ -12,6 +12,7 @@ title: North America Modelica Users' Group 2014
   <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Wolfram.png"/>
   <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Siemens.png"/>
   <img style="margin-left: 30px" class="img-responsive graphic" src="/images/DS.png"/>
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/ANSYS.png"/>
 </div>
 
 
