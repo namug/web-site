@@ -1,0 +1,34 @@
+---
+layout: default
+title: North America Modelica Users' Group 2015
+---
+
+<div class="paddedLR pull-right">
+  <img class="img-responsive graphic" src="/images/graphic.png"/>
+  <h2 style="margin-left: 30px">Platinum Sponsor</h2>
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Maplesoft.png"/>
+  <h2 style="margin-left: 30px">Gold Sponsors</h2>
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Modelon.png"/>
+	<!--
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Wolfram.png"/>
+	-->
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Siemens.png"/>
+	<!--
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/DS.png"/>
+	-->
+  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/ANSYS.png"/>
+</div>
+
+
+<h1>2015 North America Modelica Users' Group Meeting</h1>
+
+<h4><b>Where</b>: University of Connecticut, Storr, CT</h4>
+<h4><b>When</b>: November 10th-11th, 2015</h4>
+
+<a class="btn btn-primary btn-large" href="http://www.eventbrite.com/e/north-america-modelica-users-group-conference-2014-tickets-12443231039">Register Now</a>
+
+We have a partial program for 2015 event online at <a href="">the
+EventBrite</a>.  In addition, the <a
+href="/2014/06/24/namug2014.html">program for the 2014 Conference</a>
+is still online to see what kinds of presentations were given last
+year.

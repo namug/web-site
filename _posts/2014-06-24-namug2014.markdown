@@ -1,6 +1,7 @@
 ---
 layout: default
 title: North America Modelica Users' Group 2014
+hide: true
 ---
 
 <div class="paddedLR pull-right">
