@@ -5,30 +5,247 @@ title: North America Modelica Users' Group 2015
 
 <div class="paddedLR pull-right">
   <img class="img-responsive graphic" src="/images/graphic.png"/>
-  <h2 style="margin-left: 30px">Platinum Sponsor</h2>
-  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Maplesoft.png"/>
-  <h2 style="margin-left: 30px">Gold Sponsors</h2>
-  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Modelon.png"/>
-	<!--
-  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Wolfram.png"/>
-	-->
-  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Siemens.png"/>
-	<!--
-  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/DS.png"/>
-	-->
-  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/ANSYS.png"/>
 </div>
 
 
 <h1>2015 North America Modelica Users' Group Meeting</h1>
 
 <h4><b>Where</b>: University of Connecticut, Storr, CT</h4>
-<h4><b>When</b>: November 10th-11th, 2015</h4>
+<h4><b>When</b>: November 11th-12th, 2015</h4>
 
-<a class="btn btn-primary btn-large" href="http://www.eventbrite.com/e/north-america-modelica-users-group-conference-2014-tickets-12443231039">Register Now</a>
+<a class="btn btn-primary btn-large" href="http://www.eventbrite.com/e/north-america-modelica-users-group-conference-2015-tickets-18074843343">Register Now</a>
 
-We have a partial program for 2015 event online at <a href="">the
-EventBrite</a>.  In addition, the <a
-href="/2014/06/24/namug2014.html">program for the 2014 Conference</a>
-is still online to see what kinds of presentations were given last
-year.
+<div style="width: 60%">
+
+  <h2>Agenda</h2>
+
+  <h3>November 11th, 2015</h3>
+
+  <table style="display: block" class="table table-condensed table-bordered table-striped">
+	<thead>
+      <tr>
+		<th>Time</th>
+		<th>Activity</th>
+      </tr>
+	</thead>
+	<tbody>
+      <tr>
+		<td>9:00am-noon</td>
+		<td>
+	      <b>Tool-specific hands-on training</b><br>
+
+	      An opportunity for you to gain first-hand experience of a
+	      range of products with experts from all the major tool
+	      suppliers.  Participating vendors will host independent
+	      sessions during this time to discuss their tools.
+
+		</td>
+      </tr>
+
+      <tr>
+		<td>10:30am-10:45am</td>
+		<td>
+	      <b>Coffee Break</b>
+		</td>
+      </tr>
+
+      <tr>
+		<td>12:00pm-1:00pm</td>
+		<td>
+	  	  <b>Lunch</b>
+		</td>
+      </tr>
+
+      <tr>
+		<td>1:00pm-1:30pm</td>
+		<td><b>Keynote</b><br>
+		  Dr. Scott Bortoff<br>
+		  Mitsubishi Electric Research Laboratories<br>
+		  <i>"Using Modelica in Industrial R&D"</i>
+	  </tr>
+      <tr>
+		<td>1:30pm-3:10pm</td>
+		<td>
+	      Recent advances in:<br>
+		  <ul>
+			<li>Modelica</li>
+			<li>FMI</li>
+			<li>Tools</li>
+		  </ul>
+		</td>
+      </tr>
+
+	  <tr>
+		<td>3:20pm-3:40pm</td>
+		<td><b>Snack and Coffee Break</b></td>
+	  </tr>
+
+	  <tr>
+		<td>3:40pm-6:15pm</td>
+		<td>Modelica and FMI Tutorials (held in parallel)</td>
+	  </tr>
+
+	  <tr>
+		<td>7:00pm-</td>
+		<td>
+
+          <b>Dinner</b>:<br>Reservations will be made on behalf of all attendees
+          interested in getting together for dinner Monday evening.
+
+		</td>
+	  </tr>
+	</tbody>
+  </table>
+
+  <h3>November 12th, 2014</h3>
+
+  <table style="display: block" class="table table-condensed table-bordered table-striped">
+	<thead>
+      <tr>
+		<th>Time</th>
+		<th>Activity</th>
+      </tr>
+	</thead>
+	<tbody>
+      <tr>
+		<td>8:30am-9:00am</td>
+		<td>Registration and Coffee</td>
+	  </tr>
+
+      <tr>
+		<td></td>
+		<td>
+		  Peter Denno (NIST)<br>
+		  <i>"A metamodel of Modelica and it potential uses"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td></td>
+		<td>
+		  Chris Laughman (MERL)<br>
+		  <i>"Mass Conserving Models of Vapor Compression Systems"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td></td>
+		<td>
+		  Hongtao Qiao (MERL)<br>
+		  <i>"Dynamic simulation of a flash tank vapor injection heat pump under frosting condition"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td></td>
+		<td>
+		  Jiazhen Ling (University of Maryland)<br>
+		  Hongtao Qiao (MERL)<br>
+		  Vikrant Aute (University of Maryland)<br>
+		  <i>"Reducing Environmental Impact and Improving Performance of HVAC Systems using Transient Modeling with Modelica"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td></td>
+		<td>
+		  Richard Hale (ORNL)<br>
+		  Sacit Setiner (ORNL)<br>
+		  <i>"TRANSFORM: End-to-End Reactor Simulation Tool for Control and Trade Studies"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td></td>
+		<td>
+		  Thierry S. Nouidui (LBNL)<br>
+		  <i>"CyPhySim: An Open Source and free master algorithm for Functional Mock-up Unit for Co-Simulation and Model Exchange"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td>12:05pm-1:00pm</td>
+		<td><b>Lunch</b></td>
+	  </tr>
+
+      <tr>
+		<td></td>
+		<td>
+		  Luigi Vanfretti (KTH)<br>
+		  <i>"Dynamic Parametric Sensitivity Optimization Using Simultaneous Discretization in JModelica.org"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td></td>
+		<td>
+		  Yaoyu Li (U of T Dallas)<br>
+		  <i>"Modelica based Detailed Modeling & Model-free Control for Building HVAC Systems: Paradox or Harmony?"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td></td>
+		<td>
+		  Brian Baillie and George Bollas, UCONN<br>
+		  <i>"Development, Validation, and Assessment of a High-Fidelity Chilled Water Plant Model"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td></td>
+		<td>
+		  Kyle Palmer (UCONN)<br>
+		  <i>"Dynamic Parametric Sensitivity Optimization Using Simultaneous Discretization in JModelica.org"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td>4:10pm-5:00pm</td>
+		<td>Round Table Discussion</td>
+	  </tr>
+      <tr>
+		<td>5:00pm-5:15pm</td>
+		<td>Wrap-up and Closing</td>
+	  </tr>
+	</tbody>
+  </table>
+</div>
+
+
+<div class="container">
+  <div class="row">
+	<h1>Sponsors</h1>
+  </div>
+  <div class="row">
+	<div class="col-lg-l2">
+	  <h2 style="margin-left: 30px">Platinum Sponsor</h2>
+	  <img style="margin-left: 30px" class="img-responsive graphic" src="/images/Maplesoft.png"/>
+	</div>
+  </div>
+  <div class="row">
+	<div class="col-lg-12">
+	  <h2 style="margin-left: 30px">Gold Sponsors</h2>
+	</div>
+  </div>
+  <div class="row">
+	<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+	  <img style="padding: 30px" class="img-responsive graphic" src="/images/Siemens.png"/>
+	</div>
+	<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+	  <img style="padding: 30px" class="img-responsive graphic" src="/images/ANSYS.png"/>
+	</div>
+	<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+	  <img style="padding: 30px" class="img-responsive graphic" src="/images/Modelon.png"/>
+	</div>
+	<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+	  <img style="padding: 30px" class="img-responsive graphic" src="/images/claytex.png"/>
+	</div>
+	<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+	  <img style="padding: 30px" class="img-responsive graphic" src="/images/DS.png"/>
+	</div>
+	<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+	  <img style="padding: 30px" class="img-responsive graphic" src="/images/Wolfram.png"/>
+	</div>
+  </div>
+</div>
