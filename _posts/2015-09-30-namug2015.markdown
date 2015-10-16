@@ -57,14 +57,14 @@ title: North America Modelica Users' Group 2015
       </tr>
 
       <tr>
-		<td>1:00pm-1:30pm</td>
-		<td><b>Keynote</b><br>
+		<td>1:00pm-1:35pm</td>
+		<td><b>Keynote 1</b><br>
 		  Dr. Scott Bortoff<br>
 		  Mitsubishi Electric Research Laboratories<br>
 		  <i>"Using Modelica in Industrial R&D"</i>
 	  </tr>
       <tr>
-		<td>1:30pm-3:10pm</td>
+		<td>1:35pm-3:10pm</td>
 		<td>
 	      Recent advances in:<br>
 		  <ul>
@@ -113,31 +113,23 @@ title: North America Modelica Users' Group 2015
 	  </tr>
 
       <tr>
-		<td></td>
+		<td>9:00am-9:35am</td>
 		<td>
 		  Peter Denno (NIST)<br>
-		  <i>"A metamodel of Modelica and it potential uses"</i>
+		  <i>"A metamodel of Modelica and its potential uses"</i>
 		</td>
 	  </tr>
 
       <tr>
-		<td></td>
+		<td>9:35am-10:10am</td>
 		<td>
-		  Chris Laughman (MERL)<br>
-		  <i>"Mass Conserving Models of Vapor Compression Systems"</i>
+		  Yaoyu Li (U of T Dallas)<br>
+		  <i>"Modelica based Detailed Modeling & Model-free Control for Building HVAC Systems: Paradox or Harmony?"</i>
 		</td>
 	  </tr>
 
       <tr>
-		<td></td>
-		<td>
-		  Hongtao Qiao (MERL)<br>
-		  <i>"Dynamic simulation of a flash tank vapor injection heat pump under frosting condition"</i>
-		</td>
-	  </tr>
-
-      <tr>
-		<td></td>
+		<td>10:10am-10:45am</td>
 		<td>
 		  Jiazhen Ling (University of Maryland)<br>
 		  Hongtao Qiao (MERL)<br>
@@ -147,7 +139,12 @@ title: North America Modelica Users' Group 2015
 	  </tr>
 
       <tr>
-		<td></td>
+		<td>10:45am-11:00am</td>
+		<td><b>Snack and Coffee Break</b></td>
+	  </tr>
+
+      <tr>
+		<td>11:00am-11:35am</td>
 		<td>
 		  Richard Hale (ORNL)<br>
 		  Sacit Setiner (ORNL)<br>
@@ -156,7 +153,7 @@ title: North America Modelica Users' Group 2015
 	  </tr>
 
       <tr>
-		<td></td>
+		<td>11:35am-12:10pm</td>
 		<td>
 		  Thierry S. Nouidui (LBNL)<br>
 		  <i>"CyPhySim: An Open Source and free master algorithm for Functional Mock-up Unit for Co-Simulation and Model Exchange"</i>
@@ -164,45 +161,62 @@ title: North America Modelica Users' Group 2015
 	  </tr>
 
       <tr>
-		<td>12:05pm-1:00pm</td>
+		<td>12:10pm-1:00pm</td>
 		<td><b>Lunch</b></td>
 	  </tr>
 
       <tr>
-		<td></td>
-		<td>
+		<td>1:00pm-1:35pm</td>
+		<td><b>Keynote 2</b><br>
 		  Luigi Vanfretti (KTH)<br>
-		  <i>"Dynamic Parametric Sensitivity Optimization Using Simultaneous Discretization in JModelica.org"</i>
+		  <i>"Wanted! ­ Open M&S Standards and Technologies for the Smart Grid"</i>
 		</td>
 	  </tr>
 
       <tr>
-		<td></td>
+		<td>1:35pm-2:10pm</td>
 		<td>
-		  Yaoyu Li (U of T Dallas)<br>
-		  <i>"Modelica based Detailed Modeling & Model-free Control for Building HVAC Systems: Paradox or Harmony?"</i>
+		  Chris Laughman (MERL)<br>
+		  <i>"Mass Conserving Models of Vapor Compression Systems"</i>
 		</td>
 	  </tr>
 
       <tr>
-		<td></td>
+		<td>2:10pm-2:45pm</td>
 		<td>
-		  Brian Baillie and George Bollas, UCONN<br>
+		  Hongtao Qiao (MERL)<br>
+		  <i>"Dynamic simulation of a flash tank vapor injection heat pump under frosting condition"</i>
+		</td>
+	  </tr>
+
+      <tr>
+		<td>2:45pm-3:00pm</td>
+		<td><b>Snack and Coffee Break</b></td>
+	  </tr>
+
+      <tr>
+		<td>3:00pm-3:35pm</td>
+		<td>
+		  Brian Baillie (UCONN)<br>
+		  George Bollas (UCONN)<br>
 		  <i>"Development, Validation, and Assessment of a High-Fidelity Chilled Water Plant Model"</i>
 		</td>
 	  </tr>
 
       <tr>
-		<td></td>
+		<td>3:35-4:10pm</td>
 		<td>
 		  Kyle Palmer (UCONN)<br>
+		  Fredrik Magnusson (Lund University)<br>
+		  William Hale (UCONN)<br>
+		  George Bollas (UCONN)<br>
 		  <i>"Dynamic Parametric Sensitivity Optimization Using Simultaneous Discretization in JModelica.org"</i>
 		</td>
 	  </tr>
 
       <tr>
 		<td>4:10pm-5:00pm</td>
-		<td>Round Table Discussion</td>
+		<td>Panel Discussion</td>
 	  </tr>
       <tr>
 		<td>5:00pm-5:15pm</td>
