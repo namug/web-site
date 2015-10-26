@@ -1,3 +1,4 @@
 name: North America Modelica Users' Group
 markdown: redcarpet
-pygments: true
+highlighter: pygments
+exclude: [Makefile, heroku_dotgit, .git]
