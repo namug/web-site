@@ -1,6 +1,7 @@
 ---
 layout: default
 title: North America Modelica Users' Group 2015
+hide: true
 ---
 
 <div class="paddedLR pull-right">
@@ -147,7 +148,7 @@ title: North America Modelica Users' Group 2015
 		<td>11:00am-11:35am</td>
 		<td>
 		  Richard Hale (ORNL)<br>
-		  Sacit Setiner (ORNL)<br>
+		  Sacit Cetiner (ORNL)<br>
 		  <i>"TRANSFORM: End-to-End Reactor Simulation Tool for Control and Trade Studies"</i>
 		</td>
 	  </tr>

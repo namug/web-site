@@ -1,0 +1,20 @@
+---
+layout: default
+title: North America Modelica Users' Group 2016
+---
+
+<div class="paddedLR pull-right">
+  <img class="img-responsive graphic" src="/images/graphic.png"/>
+</div>
+
+
+<h1>2016 North America Modelica Users' Group Meeting</h1>
+
+<h4><b>Where</b>: MEC Conference Center<br>
+811 West Square Lake Road<br>
+Troy, MI 48098</h4>
+<h4><b>When</b>: September 28th-29th, 2016</h4>
+
+<p>The agenda will be posted as soon as it has been finalized.  For more details, see the <a href="http://www.eventbrite.ca/e/north-america-modelica-users-group-conference-2016-tickets-26333851258">EventBrite page</a> for the event.
+
+<a class="btn btn-primary btn-large" href="http://www.eventbrite.ca/e/north-america-modelica-users-group-conference-2016-tickets-26333851258">Register Now</a>
