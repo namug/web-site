@@ -1,5 +1,4 @@
 name: North America Modelica Users' Group
-markdown: redcarpet
 highlighter: pygments
-exclude: [Makefile, heroku_dotgit, .git]
+exclude: [Makefile, .git]
 theme: jekyll-theme-tactile
