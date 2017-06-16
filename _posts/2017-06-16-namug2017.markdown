@@ -1,0 +1,20 @@
+---
+layout: default
+title: North America Modelica Users' Group 2017
+hide: false
+---
+
+<div class="paddedLR pull-right">
+  <img class="img-responsive graphic" src="/images/graphic.png"/>
+</div>
+
+
+<h1>NA-MUG 2017: System Modeling and Simulation with Open Standards</h1>
+
+<h4><b>Where</b>:<br>
+Stanford Linear Accelerator Lab<br>
+Menlo Park, California<br>
+</h4>
+<h4><b>When</b>: August 3rd and 4th, 2017</h4>
+
+<p>The agenda and an EventBrite regisration page will be posted as soon as it has been finalized.</p>
