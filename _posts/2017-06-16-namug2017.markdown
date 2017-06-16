@@ -17,4 +17,22 @@ Menlo Park, California<br>
 </h4>
 <h4><b>When</b>: August 3rd and 4th, 2017</h4>
 
-<p>The agenda and an EventBrite regisration page will be posted as soon as it has been finalized.</p>
+<p>
+  This years event will be held in the famous Stanford Linear
+Accelerator Lab facility. The NA-MUG meeting is the premier event for
+the Modelica community and everyone who is interested in simulation of
+cyber-physical systems based on open standards should attend.  The
+topics at this event will focus on Modelica for physical system
+modeling and the Functional-Mockup-Interface FMI for model exchange
+and co-simulation. The event features tutorials to learn about these
+technologies as well as news and the latest trends in the system
+simulation community.  And, of course, this year's event will also
+feature presentations from industrial and academic users to share
+their experiences and those will be accompanied by a keynote speech as
+well.
+</p>
+
+<p>
+  The agenda and an EventBrite regisration page will be posted as
+soon as it has been finalized.
+</p>
