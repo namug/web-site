@@ -33,6 +33,7 @@ well.
 </p>
 
 <p>
-  The agenda and an EventBrite regisration page will be posted as
-soon as it has been finalized.
+  Additional information including the agenda and ticket information can be found on <a href="https://www.eventbrite.com/e/na-mug-2017-system-modeling-and-simulation-with-open-standards-tickets-35516389477">the EventBrite page</a>.
 </p>
+
+<p>If you have a presentation you would like to give, please send it to <a href="michael.tiller+namug2017@gmail.com">me</a></p>
