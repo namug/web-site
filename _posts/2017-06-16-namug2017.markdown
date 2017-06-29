@@ -37,7 +37,7 @@ well.
 We invite participants to submit proposals for presentations at this years event.  Submissions should be related in some way to Modelica and/or FMI and discuss interesting problems or projects that have leveraged these technologies.  Please send them to me and I will collect them for review by the board.  <strong>Submissions should be submitted by July 16th</strong>.  Authors will be notified by July 20th.
 </p>
 
-<p>If you have a presentation you would like to give, please send it to <a href="michael.tiller+namug2017@gmail.com">me</a>.</p>
+<p>If you have a presentation you would like to give, please send it to <a href="mailto:michael.tiller+namug2017@gmail.com">me</a>.</p>
 
 
 <h5>Call for Tutorials</h5>
