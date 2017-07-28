@@ -32,19 +32,35 @@ their experiences and those will be accompanied by a keynote speech as
 well.
 </p>
 
-<h5>Call for Presentations</h5>
-<p>
-We invite participants to submit proposals for presentations at this years event.  Submissions should be related in some way to Modelica and/or FMI and discuss interesting problems or projects that have leveraged these technologies.  Please send them to me and I will collect them for review by the board.  <strong>Submissions should be submitted by July 16th</strong>.  Authors will be notified by July 20th.
-</p>
+<h2>Keynote</h2>
+<h3>The Myth of Accuracy - 2 Decades On</h3>
+<h4>Speaker: Damian Harty</h4>
+<p>Damian has had a very diverse career since graduating from Loughborough University in the UK in 1990. Along the way he added a Master's degree from the University of Hertfordshire in 1999. Technically his career started with structural and fatigue analysis of metallic structures, then into vibrational analysis of structures and systems and then on to the large amplitude non-linear domain for systems. This final area has held his attention for quite some time. He has spent time in industry and in academia; he collaborated with Professor Mike Blundell for "The Multibody Systems Approach to Vehicle Dynamics", published in 2004 and revised in 2014. In industry, he has worked on products from 2 to 10 wheels, and also some with tracks and skis. He has worked as both consultant and client. As well as analytical work, he has spent a great deal of time in the real world, measuring and developing motorcycles, rally cars, passenger cars and even some military vehicles. Geographically he recently moved to California to take up the role of Chassis Director for Lucid Motors, in which capacity he is employed today. Getting him to talk is easy; it's getting him to shut up that is the problem.</p>
+<h4>Abstract</h4>
+<p>As computing power continues to track Moore's Law, numerical modelling - the once "poor cousin" of classical mathematics - has become an indispensible and unstoppable force in shaping product design. In 1999, I asked questions about whether or not we should always make the most accurate models possible. If I were being accurate with the title, I would say "1.8 decades on", but the whole point of this conversation is to challenge traditional conversations about the relationship of accuracy and value.</p>
 
-<p>If you have a presentation you would like to give, please send it to <a href="mailto:michael.tiller+namug2017@gmail.com">me</a>.</p>
+<h2>Presentations</h2>
 
+<p><b>"Connecting FMI data with enterprise data using the next Web" -&nbsp;</b>Axel Reichwein (Koneksys)</p>
+<p><b>"Improved Model of Photovoltaic Systems" -&nbsp;</b>Christopher Jones (3DS)</p>
+<p><b>"Active Gravity Offloading of Deployable Space Structures Using Modelica" -&nbsp;</b>Cory Rupp (ATA)</p>
+<p><b>"Examples of Modelica and FMI-based model predictive control (MPC) at room, building, and campus scales" -&nbsp;</b>David Blum (LBL)</p>
+<p><b>"Creating free, online, video-based Modelica courses" -&nbsp;</b>Johan Rhodin (ModSimTech)</p>
+<p><b>"Advanced Nuclear Reactor Modeling with Modelica and TRANSFORM" -&nbsp;</b>Jordan Rader (ORNL)</p>
+<p><b>"modelica.university: A Platform for Interactive Modelica Content" -&nbsp;</b>Michael Tiller (Xogeny)</p>
+<div>
+<p><b>"Modelica and FMI-based building and control design, deployment and operation: Spawn of EnergyPlus and OpenBuildingControl" -&nbsp;</b>Michael Wetter (LBL)</p>
+<p><b>"Nuclear Hybrid Energy Systems &amp; Discretized Models" -&nbsp;</b>Scott Greenwood (ORNL)</p>
+<p><b>"CyDER - A Cyber Physical Co-simulation Platform for Distributed Energy Resources in Smart Grids" -&nbsp;</b>Thierry Nouidui (LBL)</p>
+</div>
 
-<h5>Call for Tutorials</h5>
-<p>
-We also invite participants to submit proposals for tutorials.  Each tutorial should last no more than 3 hours and should include a "hands-on-experience" session (participants are expected to bring their own laptop; the presenter will provide the presented tools). If you are interested in presenting a tutorial, please send me an email, providing title, presenter(s), and an abstract of the tutorial. <strong>The deadline for application is July 5th, 2017</strong>; however, as only a limited number of tutorials can be held in parallel, we advise you to apply as early as possible.</p>
+<h2>Tutorials</h2>
+<p><b>"Introduction to Multibody Simulation" -&nbsp;</b>Johan Rhodin</p>
+<p><b>"Let&rsquo;s Talk Testing: Practical Use Cases in an Open Standards, Multi-Platform Ecosystem" -&nbsp;</b>John Batteh</p>
+<p><b>"Modeling and Simulation of Electrical Power Systems using OpenIPSL and OpenModelica" -&nbsp;</b>Luigi Vanfretti &amp; Philip Tom</p>
+<p><b>"Discretization Techniques for PDE Problems in Modelica Tools." -&nbsp;</b>John May</p>
+
 <p>Tutorials are free for the participants, but content should focus on teaching people about useful technologies and not on marketing a particular tool or vendor.</p>
-<p>Decision about the acceptance of tutorials will be based upon Modelica/FMI relation of content, how educational they are, and on the time of application.</p>
 
 <h5>Additional Information</h5>
 
