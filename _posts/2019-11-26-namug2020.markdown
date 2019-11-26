@@ -1,0 +1,41 @@
+---
+layout: default
+title: American Modelica Conference 2020
+hide: true
+---
+
+<div class="paddedLR pull-right">
+  <img class="img-responsive graphic" src="/images/graphic.png"/>
+</div>
+
+
+<h1>American Modelica Conference 2020: System Modeling and Simulation with Open Standards</h1>
+
+<h4><b>Where</b>:<br>
+University Memorial Center<br>
+1669 Euclid Ave<br>
+Boulder, CO 80309<br>
+</h4>
+<h4><b>When</b>: Monday, March 23, 2020 to Wednesday, March 25, 2020</h4>
+
+<p>
+This years event will be held at the University of Colorado at Boulder.
+The American Modelica Conference is the premier event for
+the Modelica community and everyone who is interested in simulation of
+cyber-physical systems based on open standards should attend.  The
+topics at this event will focus on Modelica for physical system
+modeling and the Functional-Mockup-Interface FMI for model exchange
+and co-simulation. The event features tutorials to learn about these
+technologies as well as news and the latest trends in the system
+simulation community.  And, of course, this year's event will also
+feature presentations from industrial and academic users to share
+their experiences and those will be accompanied by a keynote speech as
+well.
+</p>
+
+<h5>Additional Information</h5>
+
+<p>
+Additional information including the agenda and ticket information can be found on
+<a href="https://www.eventbrite.com/e/american-modelica-conference-2020-tickets-64989712981">the EventBrite page</a>.
+</p>
