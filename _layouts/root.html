@@ -58,24 +58,51 @@
 		<div class="row">
 		  <hr>
 
+
+
+
+		  <!-- from https://maedi.com/code/filter-by-date/ -->
 		  <div class="col-sm-12 col-md-12 col-lg-7">
-			<h2>Announcements</h2>
+			<h2>Upcoming events</h2>
+
+			{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
 			{% for post in site.posts %}
-			{% if post.hide %}
-			{% else %}
-			<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-			{% endif %}
+			  {% capture date %}{{post.date-end | date: '%s' | plus: 0 }}{% endcapture %}
+			    {% if date > now %}
+			      {% if post.external %}
+			      <h3><a href="{{ post.external-url }}">{{ post.title }}</a>
+			      {% if post.proceedings %}
+			       |  <a href="{{ post.proceedings }}">Proceedings</a>
+			      {% endif %}
+				</h3>
+			      {% else %}
+			        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			      {% endif %}
+				{% endif %}
 			{% endfor %}
-			<a class="btn btn-primary btn-large"
-			   href="https://www.eventbrite.com/e/american-modelica-conference-2020-tickets-64989712981">
-			  American Modelica Conference 2020: Register Now
-			</a>
+
+			<h2>Past events</h2>
+
+			{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+			{% for post in site.posts %}
+			  {% capture date %}{{post.date-end | date: '%s' | plus: 0 }}{% endcapture %}
+			    {% if now >= date %}
+			      {% if post.external %}
+			      <h3><a href="{{ post.external-url }}">{{ post.title }}</a>
+			      {% if post.proceedings %}
+			       |  <a href="{{ post.proceedings }}">Proceedings</a>
+			      {% endif %}
+				</h3>
+			      {% else %}
+			        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			      {% endif %}
+				{% endif %}
+			{% endfor %}
 		  </div>
-						
+
 		  <div class="col-sm-12 col-md-12 col-lg-5">
 			<h2>Board</h2>
 			  <h4>Behnam Asharpoya (Dassault Syst&egrave;mes)</h4>
-			  <h4>Paul Goossens (Maplesoft)</h4>
 			  <h4>Chris Laughman (Mitsubishi Electric Research Laboratories)</h4>
 			  <h4>Hubertus Tummescheit (Modelon)</h4>
 			  <h4>Michael Tiller (Ricardo)</h4>
