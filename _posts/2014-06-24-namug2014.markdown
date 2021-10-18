@@ -2,6 +2,8 @@
 layout: default
 title: North America Modelica Users' Group 2014
 hide: true
+date: 2014-10-13
+date-end: 2014-10-14
 ---
 
 <div class="paddedLR pull-right">
@@ -22,8 +24,9 @@ hide: true
 <h4><b>Where</b>: Georgia Institute of Technology, Atlanta, Georgia</h4>
 <h4><b>When</b>: October 13th-14th, 2014</h4>
 
+<!--
 <a class="btn btn-primary btn-large" href="http://www.eventbrite.com/e/north-america-modelica-users-group-conference-2014-tickets-12443231039">Register Now</a>
-
+-->
 
 <!---
 <div style="width: 30%; float: right">
@@ -80,7 +83,7 @@ hide: true
 	Young Park, United Technologies<br>
 	John F. Cassidy, Jr., United Technologies<br>
 		<i>"Product & Platform Architecture: Product Development Processes and Model Based Development"</i>
-		<!-- (<a data-toggle="modal" data-target="#utc_abstract">abstract</a>)</td> -->
+		</td>
 	</tr>
     <tr>
       <td>1:30pm-3:20pm</td>

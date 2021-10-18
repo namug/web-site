@@ -1,0 +1,9 @@
+---
+layout: default
+title: American Modelica Conference 2020
+date: 2020-09-22
+date-end: 2020-09-24
+external: true
+external-url: https://2020.american.conference.modelica.org/
+proceedings: https://doi.org/10.3384/ecp20169
+---

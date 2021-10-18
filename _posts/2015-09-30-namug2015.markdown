@@ -2,6 +2,8 @@
 layout: default
 title: North America Modelica Users' Group 2015
 hide: true
+date: 2015-11-11
+date-end: 2015-11-12
 ---
 
 <div class="paddedLR pull-right">
@@ -14,7 +16,9 @@ hide: true
 <h4><b>Where</b>: University of Connecticut, Storr, CT</h4>
 <h4><b>When</b>: November 11th-12th, 2015</h4>
 
+<!--
 <a class="btn btn-primary btn-large" href="http://www.eventbrite.com/e/north-america-modelica-users-group-conference-2015-tickets-18074843343">Register Now</a>
+-->
 
 <div style="width: 60%">
 
@@ -63,6 +67,7 @@ hide: true
 		  Dr. Scott Bortoff<br>
 		  Mitsubishi Electric Research Laboratories<br>
 		  <i>"Using Modelica in Industrial R&D"</i>
+		</td>
 	  </tr>
       <tr>
 		<td>1:35pm-3:10pm</td>
